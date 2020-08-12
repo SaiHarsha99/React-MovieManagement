@@ -1,2 +1,2 @@
-# React-MovieManagement
+# react-movie-hooks
 Created with CodeSandbox
